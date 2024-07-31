@@ -2,7 +2,7 @@
 
 - :mortar_board:Currently an undergraduate student at BJTU 
 - 📫 How to reach me **xuyihan@bjtu.edu.cn**    
-- 📸 Interested in CV(?) 
+- 📸 Interested in AI in medicine 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=F1yingWhite&show_icons=true&theme=transparent" alt="XuYiHan30319's GitHub stats" style="height: 195px;">
