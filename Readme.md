@@ -6,7 +6,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=F1yingWhite&show_icons=true&theme=transparent" alt="XuYiHan30319's GitHub stats" style="height: 195px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1yingWhite&layout=compact" alt="Top Langs" style="height: 195px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1yingWhite&layout=compact&theme=transparent" alt="Top Langs" style="height: 195px;">
 </div>
 
 
