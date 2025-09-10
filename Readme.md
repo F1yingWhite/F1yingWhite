@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&width=435&lines=Hi+there%2C+I+am+F1yingWhite)](https://git.io/typing-svg)
 
 - :mortar_board:PhD student in Computer Science at Zhejiang University 
-- 📫 How to reach me **81723334@qq.com**
+- 📫 How to reach me **xuyihan@zju.edu.cn**
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=F1yingWhite&show_icons=true&theme=transparent" alt="F1yingWhite's GitHub stats" style="height: 195px;">
